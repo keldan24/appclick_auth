@@ -1,4 +1,5 @@
 venv/
 *.sqlite3
 .gitignore
+.env
 __pycache__
